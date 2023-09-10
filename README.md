@@ -17,4 +17,4 @@ git clone https://github.com/Samiul6/Samiul-007
 
 cd Samiul-007
 
-python BICP-FIRE.py
+python BICP-FIRE2.py
